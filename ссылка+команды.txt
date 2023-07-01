@@ -1,0 +1,5 @@
+https://hub.docker.com/r/ognelot/exam/tags
+
+Команды сборки образа и запуска контейнера:
+docker build -t <название_образа>
+docker run -p 33333:33333 <название_образа>
